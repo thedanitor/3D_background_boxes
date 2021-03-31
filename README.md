@@ -8,3 +8,5 @@ This project is from the Day 40 code along video from Udemy's 50 projects in 50 
 
 
 ### Things Learned
+
+* ```transform: skewY()``` can be used to skew element to create 3D effect.
